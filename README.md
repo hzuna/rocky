@@ -2,4 +2,4 @@
     
     关于项目的命名，Kurtzer 解释起名 “Rocky” 是为了纪念一位曾经与自己一起创立 CentOS 的伙伴 Rocky McGaugh。遗憾的是 Rocky 没能看到 CentOS 所取得的成功，所以 Kurtzer 想以这样的方式来缅怀曾经的战友。
       
-      中文文档存放在local/
+      中文文档存放在local/README.zh_CN.md 
