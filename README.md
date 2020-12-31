@@ -1,1 +1,1 @@
-local/README.zh_CN.md 
+locales/README.zh_CN.md 
